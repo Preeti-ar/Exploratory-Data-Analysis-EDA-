@@ -1,0 +1,22 @@
+
+order_id,product,city,sales_channel,units_sold,unit_price,discount_percent,customer_satisfaction
+1,Notebook,Delhi,Online,10,50,0.05,4
+2,Pen,Jaipur,Store,25,10,0,5
+3,Backpack,Mumbai,Online,3,650,0.10,4
+4,Water Bottle,Pune,Store,8,120,0.05,3
+5,Folder,Lucknow,Online,12,25,0,4
+6,Notebook,Jaipur,Store,15,50,0.10,5
+7,Pen,Delhi,Online,30,10,0.05,4
+8,Backpack,,Store,2,650,0.15,5
+9,Water Bottle,Mumbai,Online,6,120,0.10,3
+10,Folder,Pune,Store,20,25,0,4
+11,Notebook,Lucknow,Online,8,50,0.05,4
+12,Pen,Jaipur,Online,18,10,0,5
+13,Backpack,Delhi,Store,4,650,0.10,4
+14,Water Bottle,Pune,Online,9,120,0.05,3
+15,Folder,Mumbai,Store,14,25,0.10,4
+16,Notebook,Delhi,Store,11,50,0.05,5
+17,Pen,Lucknow,Online,22,10,0,4
+18,Backpack,Jaipur,Online,3,650,0.15,5
+19,Water Bottle,,Store,7,120,0.05,3
+20,Folder,Pune,Online,16,25,0,4
